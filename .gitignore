@@ -1,0 +1,20 @@
+# Ignorar archivos y directorios generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos y directorios generados por el editor de código
+.vscode/
+.idea/
+
+# Ignorar archivos y directorios generados por herramientas de construcción
+node_modules/
+dist/
+build/
+
+# Ignorar archivos y directorios generados por el servidor web
+logs/
+tmp/
+
+# Ignorar archivos y directorios específicos de tu proyecto
+config.js
+secrets.txt
